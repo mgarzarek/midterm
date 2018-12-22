@@ -1,0 +1,163 @@
+
+
+audio{
+ 	width:100%;
+}
+
+body{
+	margin: 50px 15% 50px 15%;
+	background-color: #E8E8E8;
+	/*Google Font*/
+  font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	color:#232323;
+	}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+	font-size: 80px;
+	margin-bottom: 0;
+	color: #232323
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+	font-size: 36px;
+	margin-bottom: 0;
+	text-align: left;
+	}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	margin-bottom: 0;
+	text-align: center;
+
+}
+
+p{
+  font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	text-align: justify;
+}
+
+
+
+body{
+margin:60px 15%;
+padding:0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.rt-responsive{
+	max-width:100%;
+	height: auto;
+	float: right;
+	margin:30px 0 20px 30px;
+}
+
+.lt-responsive{
+	max-width:100%;
+	height: auto;
+	float: left;
+	margin:0px 30px 20px 30px;
+}
+
+.mybanner{
+	display:block;
+	max-width:100%;
+	max-height: auto;
+	margin:0 auto;
+	}
+
+.mydiv{
+	box-sizing:border-box;
+	border: solid 15px #cccccc;
+	padding: 0;
+	float:left;
+	margin: 25px 25px 25px 0;
+	}
+
+.center-responsive{
+	display:block;
+	max-width:100%;
+	max-height: auto;
+	margin:0 auto;
+	}
+
+
+.video-apollo{
+	clear:left;
+	float:left;
+	margin: 0 15px 15px 0;
+	border: solid 15px #cccccc;
+	padding: 0;
+}
+
+.anim2{
+	border: solid 15px #cccccc;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.nav-container{
+width:100%;
+background-color: #9D9D9D;
+box-shadow: 2px 2px 20px #7E7F79;
+position:fixed;
+left:0;
+top:0;
+}
+
+.nav-container ul{
+width:100%;
+margin: auto;
+padding:0;
+list-style-type: none;
+font-size:18px;
+font-family:'Raleway', sans-serif;
+;
+}
+
+.nav-container li{
+float: left;
+}
+
+.nav-container a{
+display: block;
+box-sizing: border-box;
+width: 130px;
+padding: 10px;
+text-decoration: none;
+text-align: center;
+background-color: #9D9D9D;
+color:#232323;
+}
+
+.nav-container a:hover{
+background-color: #8B8B8B;
+/* changes link-box color on rollover*/
+}
+
+.nav-container a:visited {
+    background-color: #AEAEAE;
+}
+
+
+iframe {
+    width: 560px;
+    display: block;
+    margin: 0 auto;
+}
